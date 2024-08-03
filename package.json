@@ -1,0 +1,12 @@
+{
+  "name": "whatsapp-profile-updater",
+  "version": "1.0.0",
+  "description": "A script to update WhatsApp Business Account profile picture using the WhatsApp Cloud API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
